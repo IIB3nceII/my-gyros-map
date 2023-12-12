@@ -25,6 +25,8 @@ npm run dev
 npm run dev -- --open
 ```
 
+To run the app you also need an API key from [Thunderforest](https://www.thunderforest.com/). Create a .env file and create a variable called `PUBLIC_THUNDERFOREST_API_KEY`.
+
 ## Building
 
 To create a production version of your app:
